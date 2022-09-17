@@ -1,9 +1,5 @@
 {
-  "name": "JATE",
-  "engines": {
-    "node": "18.3.0",
-    "npm": "8.11.0"
-  },
+  "name": "text-editor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
